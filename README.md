@@ -1,7 +1,7 @@
 # Aeropuerto
 # Práctica de Programación Orientada a Objetos
 
-Equipo #2
+## Equipo #2
 CONTRERAS RODRIGUEZ JANIS ISABEL
 LIRA DOMINGUEZ BRYANT
 PARRA GONZALEZ DIEGO ALBERTO
