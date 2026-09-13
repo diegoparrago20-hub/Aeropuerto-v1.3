@@ -1,4 +1,4 @@
-# Aeropurto
+# Aeropuerto
 # Práctica de Programación Orientada a Objetos
 
 Equipo #2
