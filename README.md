@@ -1,5 +1,4 @@
 # Aeropuerto
-# Práctica de Programación Orientada a Objetos
 
 ## Equipo #2
 CONTRERAS RODRIGUEZ JANIS ISABEL
@@ -11,9 +10,9 @@ PARRA GONZALEZ DIEGO ALBERTO
 
 ## Descripción del proyecto
 
-Este proyecto corresponde a una práctica de Programación Orientada a Objetos desarrollada en Java. El proyecto representa un sistema relacionado con un aeropuerto y utiliza diferentes clases para representar personas, empleados, pasajeros, pilotos, vuelos, aviones, boletos, equipaje y aerolíneas.
+El proyecto representa un sistema relacionado con un aeropuerto y utiliza diferentes clases para representar personas, empleados, pasajeros, pilotos, vuelos, aviones, boletos, equipaje y aerolíneas.
 
-Se aplican conceptos de Programación Orientada a Objetos como encapsulamiento, abstracción, herencia, constructores, métodos `set`, `get` y `toString()`.
+Se aplican conceptos de Programación como encapsulamiento, abstracción, constructores, métodos `set`, `get` y `toString()`.
 
 El proyecto también cuenta con una interfaz gráfica desarrollada mediante `JFrame` y `JTabbedPane`.
 
